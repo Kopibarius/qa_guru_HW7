@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Main {
+public class MainHashMap {
     public static void main(String[] arg){
         HashMap<Integer, String> clients = new HashMap<>();
         HashMapClientBase clientBase = new HashMapClientBase();
